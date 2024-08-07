@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Faf du Plessis",
+        "type": "bat"
+    },
+    {
+        "name": "Virat Kohli",
+        "type": "bat"
+    },
+    {
+        "name": "Glenn Maxwell",
+        "type": "all"
+    },
+    {
+        "name": "Rajat Patidar",
+        "type": "bat"
+    },
+    {
+        "name": "Cameron Green",
+        "type": "all"
+    },
+    {
+        "name": "Mahipal Lomror",
+        "type": "all"
+    },
+    {
+        "name": "Dinesh Karthik",
+        "type": "wk"
+    },
+    {
+        "name": "Karn Sharma",
+        "type": "bowl"
+    },
+    {
+        "name": "Yash Dayal",
+        "type": "bowl"
+    },
+    {
+        "name": "Lockie Ferguson",
+        "type": "bowl"
+    },
+    {
+        "name": "Mohammed Siraj",
+        "type": "bowl"
+    }
+]

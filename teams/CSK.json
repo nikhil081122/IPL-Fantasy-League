@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Devon Conway",
+        "type": "bat"
+    },
+    {
+        "name": "Ruturaj Gaikwad",
+        "type": "bat"
+    },
+    {
+        "name": "Daryl Mitchell",
+        "type": "bat"
+    },
+    {
+        "name": "Ajinkya Rahane",
+        "type": "bat"
+    },
+    {
+        "name": "Rachin Ravindra",
+        "type": "all"
+    },
+    {
+        "name": "Shivam Dube",
+        "type": "all"
+    },
+    {
+        "name": "MS Dhoni",
+        "type": "wk"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "type": "all"
+    },
+    {
+        "name": "Shardul Thakur",
+        "type": "bowl"
+    },
+    {
+        "name": "Deepak Chahar",
+        "type": "bowl"
+    },
+    {
+        "name": "Matheesha Pathirana",
+        "type": "bowl"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Yashasvi Jaiswal",
+        "type": "bat"
+    },
+    {
+        "name": "Tom Kohler-Cadmore",
+        "type": "bat"
+    },
+    {
+        "name": "Riyan Parag",
+        "type": "bat"
+    },
+    {
+        "name": "Sanju Samson",
+        "type": "bat"
+    },
+    {
+        "name": "Dhruv Jurel",
+        "type": "bat"
+    },
+    {
+        "name": "Shimron Hetmyer",
+        "type": "bat"
+    },
+    {
+        "name": "Rovman Powell",
+        "type": "all"
+    },
+    {
+        "name": "Ravichandran Ashwin",
+        "type": "all"
+    },
+    {
+        "name": "Trent Boult",
+        "type": "bowl"
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "type": "bowl"
+    },
+    {
+        "name": "Sandeep Sharma",
+        "type": "bowl"
+    },
+    {
+        "name": "Avesh Khan",
+        "type": "bowl"
+    }
+]

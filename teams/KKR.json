@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Rahmanullah Gurbaz",
+        "type": "wk"
+    },
+    {
+        "name": "Sunil Narine",
+        "type": "all"
+    },
+    {
+        "name": "Venkatesh Iyer",
+        "type": "all"
+    },
+    {
+        "name": "Shreyas Iyer",
+        "type": "bat"
+    },
+    {
+        "name": "Rinku Singh",
+        "type": "bat"
+    },
+    {
+        "name": "Andre Russell",
+        "type": "all"
+    },
+    {
+        "name": "Ramandeep Singh",
+        "type": "all"
+    },
+    {
+        "name": "Mitchell Starc",
+        "type": "bowl"
+    },
+    {
+        "name": "Vaibhav Arora",
+        "type": "bowl"
+    },
+    {
+        "name": "Harshit Rana",
+        "type": "bowl"
+    },
+    {
+        "name": "Varun Chakaravarthy",
+        "type": "bowl"
+    }
+]

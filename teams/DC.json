@@ -1,0 +1,46 @@
+[
+    {
+        "name": "David Warner",
+        "type": "bat"
+    },
+    {
+        "name": "Prithvi Shaw",
+        "type": "bat"
+    },
+    {
+        "name": "Rilee Rossouw",
+        "type": "bat"
+    },
+    {
+        "name": "Manish Pandey",
+        "type": "bat"
+    },
+    {
+        "name": "Rishabh Pant",
+        "type": "wk"
+    },
+    {
+        "name": "Mitchell Marsh",
+        "type": "all"
+    },
+    {
+        "name": "Axar Patel",
+        "type": "all"
+    },
+    {
+        "name": "Lalit Yadav",
+        "type": "all"
+    },
+    {
+        "name": "Kuldeep Yadav",
+        "type": "bowl"
+    },
+    {
+        "name": "Anrich Nortje",
+        "type": "bowl"
+    },
+    {
+        "name": "Khaleel Ahmed",
+        "type": "bowl"
+    }
+]

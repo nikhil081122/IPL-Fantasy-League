@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Rohit Sharma",
+        "type": "bat"
+    },
+    {
+        "name": "Ishan Kishan",
+        "type": "wk"
+    },
+    {
+        "name": "Tilak Varma",
+        "type": "bat"
+    },
+    {
+        "name": "Hardik Pandya",
+        "type": "all"
+    },
+    {
+        "name": "Tim David",
+        "type": "all"
+    },
+    {
+        "name": "Mohammad Nabi",
+        "type": "all"
+    },
+    {
+        "name": "Romario Shepherd",
+        "type": "all"
+    },
+    {
+        "name": "Shreyas Gopal",
+        "type": "bowl"
+    },
+    {
+        "name": "Gerald Coetzee",
+        "type": "bowl"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "type": "bowl"
+    },
+    {
+        "name": "Akash Madhwal",
+        "type": "bowl"
+    }
+]

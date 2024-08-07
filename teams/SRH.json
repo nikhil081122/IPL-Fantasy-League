@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Abhishek Sharma",
+        "type": "bat"
+    },
+    {
+        "name": "Travis Head",
+        "type": "bat"
+    },
+    {
+        "name": "Rahul Tripathi",
+        "type": "bat"
+    },
+    {
+        "name": "Aiden Markram",
+        "type": "bat"
+    },
+    {
+        "name": "Nitish Reddy",
+        "type": "all"
+    },
+    {
+        "name": "Heinrich Klaasen",
+        "type": "wk"
+    },
+    {
+        "name": "Shahbaz Ahmed",
+        "type": "all"
+    },
+    {
+        "name": "Pat Cummins",
+        "type": "bowl"
+    },
+    {
+        "name": "Bhuvneshwar Kumar",
+        "type": "bowl"
+    },
+    {
+        "name": "Jaydev Unadkat",
+        "type": "bowl"
+    }
+]
